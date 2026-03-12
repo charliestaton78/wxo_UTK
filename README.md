@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <img src = "DTE_Bank_wxO.png"
+    <img src = "UTK_wxO.png"
     	width="auto" height="1200"
-         alt = "New Watson Assistant Bank" />
+         alt = "New Watson Assistant UTK" />
 
 </head>
 
